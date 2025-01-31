@@ -32,8 +32,7 @@ Our projects leverage a variety of technologies, including:
 We encourage contributions! Whether you're a student, mentor, or industry professional, your input can make a difference. Check out our [Contribution Guidelines](#) to get started.
 
 ## 📢 Stay Connected
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-🌐 **Website**: [your-website.com](https://your-website.com)  
+📧 **Email**: [your-email@example.com](mailto:tekahazi06@example.com)   
 💬 **Discussions**: [GitHub Discussions](https://github.com/IncredibleT/discussions)  
 
 ---
